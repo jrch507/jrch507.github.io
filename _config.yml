@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Yan Hu"
-description              : &description "Computer-aided Surgery, Medical image processing, Surgery video processing"
-url                      : https://gaiakoen.github.io/yanhu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Richu Jin"
+description              : &description "Medical image processing, Neuroimage, Artificial intelligence"
+url                      : https://jrch507.github.io/richujin # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gaiakoen/yanhu"
+repository               : "jrch507/yanhu"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yan Hu"
+  name             : "Richu Jin"
   avatar           : "profile.png"
-  bio              : "Department of Computer Science and Technology"
+  bio              : "Department of Computer Science and Engineering"
   location         : "Shenzhen, China"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=ja&user=rYLooucAAAAJ"
-  email            : huy3@sustech.edu.cn
+  # googlescholar    : ""
+  email            : jinrc@sustech.edu.cn
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :
@@ -96,7 +96,7 @@ author:
   # flickr           :
   # facebook         :
   # foursquare       :
-  github           : "gaiakoen"
+  github           : "jrch507"
   # google_plus      :
   # keybase          :
   # instagram        :
@@ -115,7 +115,7 @@ author:
   # xing             :
   # youtube          :
   # wikipedia        :
-  contact            : "Office: Room 445B, School of Engineering, 1088 Xueyuan Avenue, Shenzhen 518055, P.R. China"
+  contact            : "Office: Room 242B, School of Engineering, 1088 Xueyuan Avenue, Shenzhen 518055, P.R. China"
 
 
 # Reading Files
