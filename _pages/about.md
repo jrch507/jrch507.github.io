@@ -8,7 +8,7 @@ redirect_from:
   - /about
 ---
 
-I received my BSc and MSc degrees in Department of Computer from Northeast Normal University, China. I received my PhD degree in Graduate School of Information Science and Techology, The University of Tokyo, Japan. After that, I worked as a posdoctoral fellow at Shanghai Jiaotong University. I am currently a research associate professor in Department of Computer Science and Techology at Southern University of Science and Techology, China.
+I received my BSc degree in University of Science and Technology of China (USTC). I received my PhD degree in Graduate School of Information Science and Techology, The University of Tokyo, Japan. After that, I worked as a posdoctoral fellow at Shanghai Jiaotong University. I am currently a research associate professor in Department of Computer Science and Techology at Southern University of Science and Techology, China.
 
 Reseach Interest
 ======
