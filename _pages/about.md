@@ -8,7 +8,7 @@ redirect_from:
   - /about
 ---
 
-I received my BSc degree in University of Science and Technology of China (USTC). I received my PhD degree in Graduate School of Information Science and Techology, The University of Tokyo, Japan. After that, I worked as a posdoctoral fellow at Shanghai Jiaotong University. I am currently a research associate professor in Department of Computer Science and Techology at Southern University of Science and Techology, China.
+I received my BSc degree in University of Science and Technology of China (USTC), MSc degree in University of Chinese Academy Sciences (UCAS) and PhD degree in the University of Hong Kong (HKU). After that, I worked as a senior engineer at Huawei Technology Co., Ltd. Then, I joined the iMED team as a postdoctoral fellow at Southern University of Science and Technology （SUSTech). I am currently a research assistant professor in Department of Computer Science and Engineering at Southern University of Science and Techology (SUSTech).
 
 Reseach Interest
 ======
