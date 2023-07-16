@@ -8,7 +8,7 @@ redirect_from:
   - /about
 ---
 
-I received my BSc degree in University of Science and Technology of China (USTC), MSc degree in University of Chinese Academy Sciences (UCAS) and PhD degree in the University of Hong Kong (HKU). After that, I worked as a senior engineer at Huawei Technology Co., Ltd. Then, I joined the iMED team as a postdoctoral fellow at Southern University of Science and Technology （SUSTech). I am currently a research assistant professor in Department of Computer Science and Engineering at Southern University of Science and Techology (SUSTech).
+I received my bachelor degree in University of Science and Technology of China (USTC), master degree in University of Chinese Academy Sciences (UCAS) and PhD degree in the University of Hong Kong (HKU). After that, I worked as a senior engineer at Huawei Technology Co., Ltd. Then, I joined the iMED team as a postdoctoral fellow at Southern University of Science and Technology （SUSTech). I am currently a research assistant professor in Department of Computer Science and Engineering at Southern University of Science and Techology (SUSTech).
 
 Reseach Interest
 ======
