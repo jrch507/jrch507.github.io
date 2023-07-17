@@ -65,19 +65,12 @@ Work experience
 
 Honors & Awards
 ======
-* 2021, MICCAI Challenge First
-* 2016-2018, funded by "Post-doctoral International Exchange Program"
-* 2012-2016, awarded Japan Government (MONBUKAGAKUSHO) MEXT Scholarship
-* 2010, Excellent Student Cadre from Northeast Normal University
-* 2008-2011, Government Scholarship from Northeast Normal University
-* 2008, North Normal Decoration from Northeast Normal University
-* 2007, selected as one of "Ideals and Talent Cultivation"
-* 2004-2008, Awarded scholarship during undergraduate
+* 2021, xxx
+* 2016-2018, xxx
 
 Academic Services
 ======
-* Reviewer of MICCAI, BMVC, BIBM, IJCAI, ICPR, ICRA, OMIA, AECAI and so on
-* Reviewer of Transactions on Computational Imaging, Artificial Intelligence in Medicine, Cybernetics and Systems, Expert Systems with Applications, Imaging Science Journal, Information Fusion, Scientific Report and so on
-* International Technical Committee, 2023 8th International Conference on Communication, Image and Signal Processing (CCISP 2023)
-* Program Committee Member, the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)
-
+* Reviewer of xxx and so on
+* Reviewer of xxx and so on
+* xxx
+* Program Committee Member, xxx
