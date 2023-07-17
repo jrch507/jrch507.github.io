@@ -8,45 +8,43 @@ redirect_from:
   - /about
 ---
 
-I received my bachelor degree in University of Science and Technology of China (USTC), master degree in University of Chinese Academy Sciences (UCAS) and PhD degree in the University of Hong Kong (HKU). After that, I worked as a senior engineer at Huawei Technology Co., Ltd. Then, I joined the iMED team as a postdoctoral fellow at Southern University of Science and Technology （SUSTech). I am currently a research assistant professor in Department of Computer Science and Engineering at Southern University of Science and Techology (SUSTech).
+I received my bachelor degree in University of Science and Technology of China (USTC), master degree in University of Chinese Academy of Sciences (UCAS) and PhD degree in the University of Hong Kong (HKU). After that, I worked as a senior engineer at Huawei Technology Co., Ltd. Then, I joined the iMED team as a postdoctoral fellow at Southern University of Science and Technology （SUSTech). I am currently a research assistant professor in Department of Computer Science and Engineering at Southern University of Science and Techology (SUSTech).
 
 Reseach Interest
 ======
-My main research interests are computer-aided surgery based on machine learning and deep learning algorithms. Currently, I am working on
-* medical image processing aided for diagnosis and surgery, such as image registration, segmentation, 3d reconstruction
-* surgery video processing aided for operation and evaluation, such as instrument segmentation and tracking, action localization
-* image processing aided for treatment analysis
+My main research interests are medical image analysis, neuroimage and aging-related diseases. Currently, I am working on
+* Medical image analysis, such as image segmentation, registration and image-based diagnostic models
+* Neuroimage, such as analyses of structural and functional MRI and retinal images
+* Aging-related diseases, such as Alzheimer's disease, Parkinson's disease and pain 
 
 <font color="Red">Openings: We are opening to MSc and PhD students, research assistant working on those topics who are good at coding and/or math.</font>
 
 Education
 ======
-* PhD  in Graduate School of Information Science and Technology, The University of Tokyo, 2013/04-2016/03
-* M.S. in Department of Computer, Northeast Normal University, 2008/09-2011/07
-* B.S. in Department of Computer, Northeast Normal University, 2004/09-2008/07
+* PhD in Li Ka Shing Faculty of Medicine, The University of Hong Kong, 2014/09-2019/03
+* Master in Institute of Electronics, Chinese Academy of Sciences, 2011/09-2014/06
+* Bachelor in Department of Electronic Engineering and Information Science, University of Science and Technology of China, 2007/09-2011/07
 
 
 Work experience
 ======
-* Feb. 2023 - now: Research Associate Professor
-  * Department of Computer Science and Techology
+* Nov. 2022 - now: Research Assistant Professor
+  * Department of Computer Science and Engineering
   * Southern University of Science and Technology
   * Team leader: Prof. Jiang Liu
 
-* Sep. 2019 - Jan. 2023: Research Assistant Professor
-  * Department of Computer Science and Techology
+* Sep. 2022 - Nov. 2022: Research Associate
+  * Department of Computer Science and Engineering
   * Southern University of Science and Technology
   * Team leader: Prof. Jiang Liu
 
-* July. 2018 - Sep. 2019: Associate Researcher
-  * Cixi Institute of Biomedical Engineering
-  * Ningbo Institute of Materials Techology & Engineering, CAS
-  * Team leader: Prof. Jiang Liu
+* July. 2020 - Aug. 2022: Postdoctoral Fellow
+  * Department of Computer Science and Engineering
+  * Southern University of Science and Technology
+  * Supervisor: Prof. Jiang Liu
 
-* Apr. 2016 - Jun. 2018: Posdoctoral Fellow
-  * School of Biomedical Engineering
-  * Shanghai Jiao Tong University
-  * Team leader: Prof. Zhifeng Shao
+* Apr. 2019 - Jun. 2020: Senior Engineer
+  * Huawei Technology Co., Ltd
   
 <!-- Publications(Recent three years)
 ======
