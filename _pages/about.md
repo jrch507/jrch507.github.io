@@ -65,12 +65,11 @@ Work experience
 
 Honors & Awards
 ======
-* 2021, xxx
-* 2016-2018, xxx
+* 2022, Outstanding postdoctoral fellows of SUSTech President
+* 2021, Overseas Postdoctoral Talents of Guangdong Province
+* 2020, Shenzhen Overseas High-Level Talents
 
 Academic Services
 ======
-* Reviewer of xxx and so on
-* Reviewer of xxx and so on
-* xxx
-* Program Committee Member, xxx
+* Session chair of ICCRD and ICIMH
+* Technical Committee Member of ICCRD, ICIMH, CCISP and so on
