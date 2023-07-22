@@ -151,7 +151,11 @@ for pubsource in publist:
 
             md_filename = os.path.basename(md_filename)
 
-            with open("../_publications/" + md_filename, 'w') as f:
+            sub_dir = "../_publications"
+            if not os.path.isdir(sub_dir):
+                os.makedirs(sub_dir)
+
+            with open("{}/".format(sub_dir) + md_filename, 'w') as f:
                 f.write(md)
             print(f'SUCESSFULLY PARSED {bib_id}: \"', b["title"][:60],"..."*(len(b['title'])>60),"\"")
         # field may not exist for a reference
