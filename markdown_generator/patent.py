@@ -14,7 +14,7 @@ def html_escape(text):
 
 patents = pd.read_excel("patents.xlsx")
 html="<ul>\n"
-author_h = "胡衍"
+author_h = "金日初"
 for row, item in patents.iterrows():
     html += '<li>\n<div class="list_item">\n'
     authors = item["authors"].split(",")

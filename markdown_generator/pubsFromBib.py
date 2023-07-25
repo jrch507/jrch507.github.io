@@ -49,6 +49,9 @@ html_escape_table = {
     "'": "&apos;"
     }
 
+author_h_first_name = 'Richu'
+author_h_last_name = 'Jin'
+
 def html_escape(text):
     """Produce entities within text."""
     return "".join(html_escape_table.get(c,c) for c in text)
@@ -100,6 +103,9 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
+                if (author.first_names[0] == author_h_first_name) and (author.last_names[0] == author_h_last_name):
+                    author.first_names[0] = "<b>{}</b>".format(author.first_names[0])
+                    author.last_names[0] = "<b>{}</b>".format(author.last_names[0])
                 citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
 
             #citation title
