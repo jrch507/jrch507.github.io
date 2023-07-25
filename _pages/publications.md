@@ -16,9 +16,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-<!-- Projects
-======
-{% include projects.html %} -->
 
 <!-- Publications
 ====== -->
