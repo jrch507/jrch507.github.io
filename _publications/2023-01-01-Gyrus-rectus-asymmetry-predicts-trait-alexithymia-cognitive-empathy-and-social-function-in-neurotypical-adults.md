@@ -1,6 +1,7 @@
 ---
 title: "Gyrus rectus asymmetry predicts trait alexithymia, cognitive empathy, and social function in neurotypical adults"
 collection: publications
+year: 2023
 permalink: /publication/2023-01-01-Gyrus-rectus-asymmetry-predicts-trait-alexithymia-cognitive-empathy-and-social-function-in-neurotypical-adults
 date: 2023-01-01
 venue: 'Cerebral Cortex'

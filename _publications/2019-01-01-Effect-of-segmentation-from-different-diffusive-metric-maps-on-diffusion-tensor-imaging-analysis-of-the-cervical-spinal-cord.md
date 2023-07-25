@@ -1,6 +1,7 @@
 ---
 title: "Effect of segmentation from different diffusive metric maps on diffusion tensor imaging analysis of the cervical spinal cord"
 collection: publications
+year: 2019
 permalink: /publication/2019-01-01-Effect-of-segmentation-from-different-diffusive-metric-maps-on-diffusion-tensor-imaging-analysis-of-the-cervical-spinal-cord
 date: 2019-01-01
 venue: 'Quantitative Imaging in Medicine and Surgery'

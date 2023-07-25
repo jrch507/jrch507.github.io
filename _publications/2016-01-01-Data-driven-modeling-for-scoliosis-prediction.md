@@ -1,6 +1,7 @@
 ---
 title: "Data-driven modeling for scoliosis prediction"
 collection: publications
+year: 2016
 permalink: /publication/2016-01-01-Data-driven-modeling-for-scoliosis-prediction
 date: 2016-01-01
 venue: 'In the proceedings of 2016 International Conference on System Science and Engineering (ICSSE)'

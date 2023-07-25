@@ -1,6 +1,7 @@
 ---
 title: "Effects of high-definition transcranial direct current stimulation over the primary motor cortex on cold pain sensitivity among healthy adults"
 collection: publications
+year: 2022
 permalink: /publication/2022-01-01-Effects-of-high-definition-transcranial-direct-current-stimulation-over-the-primary-motor-cortex-on-cold-pain-sensitivity-among-healthy-adults
 date: 2022-01-01
 venue: 'Frontiers in Molecular Neuroscience'

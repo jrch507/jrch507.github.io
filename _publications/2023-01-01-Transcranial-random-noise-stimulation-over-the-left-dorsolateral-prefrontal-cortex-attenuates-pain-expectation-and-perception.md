@@ -1,6 +1,7 @@
 ---
 title: "Transcranial random noise stimulation over the left dorsolateral prefrontal cortex attenuates pain expectation and perception"
 collection: publications
+year: 2023
 permalink: /publication/2023-01-01-Transcranial-random-noise-stimulation-over-the-left-dorsolateral-prefrontal-cortex-attenuates-pain-expectation-and-perception
 date: 2023-01-01
 venue: 'Clinical Neurophysiology'

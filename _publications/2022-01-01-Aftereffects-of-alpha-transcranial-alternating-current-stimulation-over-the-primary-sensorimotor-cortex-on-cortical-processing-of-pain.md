@@ -1,6 +1,7 @@
 ---
 title: "Aftereffects of alpha transcranial alternating current stimulation over the primary sensorimotor cortex on cortical processing of pain"
 collection: publications
+year: 2022
 permalink: /publication/2022-01-01-Aftereffects-of-alpha-transcranial-alternating-current-stimulation-over-the-primary-sensorimotor-cortex-on-cortical-processing-of-pain
 date: 2022-01-01
 venue: 'Pain'

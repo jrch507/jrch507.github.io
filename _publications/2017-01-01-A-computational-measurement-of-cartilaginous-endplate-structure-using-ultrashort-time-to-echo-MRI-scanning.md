@@ -1,6 +1,7 @@
 ---
 title: "A computational measurement of cartilaginous endplate structure using ultrashort time-to-echo MRI scanning"
 collection: publications
+year: 2017
 permalink: /publication/2017-01-01-A-computational-measurement-of-cartilaginous-endplate-structure-using-ultrashort-time-to-echo-MRI-scanning
 date: 2017-01-01
 venue: 'Computer Methods and Programs in Biomedicine'

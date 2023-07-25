@@ -1,6 +1,7 @@
 ---
 title: "Robust spinal cord resting-state fMRI using independent component analysis-based nuisance regression noise reduction"
 collection: publications
+year: 2018
 permalink: /publication/2018-01-01-Robust-spinal-cord-resting-state-fMRI-using-independent-component-analysis-based-nuisance-regression-noise-reduction
 date: 2018-01-01
 venue: 'Journal of Magnetic Resonance Imaging'

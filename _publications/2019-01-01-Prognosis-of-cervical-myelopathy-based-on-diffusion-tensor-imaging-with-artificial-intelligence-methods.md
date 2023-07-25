@@ -1,6 +1,7 @@
 ---
 title: "Prognosis of cervical myelopathy based on diffusion tensor imaging with artificial intelligence methods"
 collection: publications
+year: 2019
 permalink: /publication/2019-01-01-Prognosis-of-cervical-myelopathy-based-on-diffusion-tensor-imaging-with-artificial-intelligence-methods
 date: 2019-01-01
 venue: 'NMR in Biomedicine'

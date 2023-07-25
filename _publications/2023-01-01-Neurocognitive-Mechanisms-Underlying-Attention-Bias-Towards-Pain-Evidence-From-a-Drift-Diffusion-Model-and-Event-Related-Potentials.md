@@ -1,6 +1,7 @@
 ---
 title: "Neurocognitive Mechanisms Underlying Attention Bias Towards Pain: Evidence From a Drift-Diffusion Model and Event-Related Potentials"
 collection: publications
+year: 2023
 permalink: /publication/2023-01-01-Neurocognitive-Mechanisms-Underlying-Attention-Bias-Towards-Pain-Evidence-From-a-Drift-Diffusion-Model-and-Event-Related-Potentials
 date: 2023-01-01
 venue: 'The Journal of Pain'

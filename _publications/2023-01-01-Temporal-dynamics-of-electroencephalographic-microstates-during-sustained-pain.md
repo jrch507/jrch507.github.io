@@ -1,6 +1,7 @@
 ---
 title: "Temporal dynamics of electroencephalographic microstates during sustained pain"
 collection: publications
+year: 2023
 permalink: /publication/2023-01-01-Temporal-dynamics-of-electroencephalographic-microstates-during-sustained-pain
 date: 2023-01-01
 venue: 'Cerebral Cortex'

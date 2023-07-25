@@ -1,6 +1,7 @@
 ---
 title: "A machine learning based prognostic prediction of cervical myelopathy using diffusion tensor imaging"
 collection: publications
+year: 2016
 permalink: /publication/2016-01-01-A-machine-learning-based-prognostic-prediction-of-cervical-myelopathy-using-diffusion-tensor-imaging
 date: 2016-01-01
 venue: 'In the proceedings of 2016 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (CIVEMSA)'

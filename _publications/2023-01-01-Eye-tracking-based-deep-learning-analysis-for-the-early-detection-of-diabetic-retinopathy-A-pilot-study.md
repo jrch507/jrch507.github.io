@@ -1,6 +1,7 @@
 ---
 title: "Eye tracking based deep learning analysis for the early detection of diabetic retinopathy: A pilot study"
 collection: publications
+year: 2023
 permalink: /publication/2023-01-01-Eye-tracking-based-deep-learning-analysis-for-the-early-detection-of-diabetic-retinopathy-A-pilot-study
 date: 2023-01-01
 venue: 'Biomedical Signal Processing and Control'

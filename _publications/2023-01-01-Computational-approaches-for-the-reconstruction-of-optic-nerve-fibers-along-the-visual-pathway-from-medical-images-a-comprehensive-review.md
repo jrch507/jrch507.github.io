@@ -1,6 +1,7 @@
 ---
 title: "Computational approaches for the reconstruction of optic nerve fibers along the visual pathway from medical images: a comprehensive review"
 collection: publications
+year: 2023
 permalink: /publication/2023-01-01-Computational-approaches-for-the-reconstruction-of-optic-nerve-fibers-along-the-visual-pathway-from-medical-images-a-comprehensive-review
 date: 2023-01-01
 venue: 'Frontiers in Neuroscience'

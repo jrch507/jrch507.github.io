@@ -1,6 +1,7 @@
 ---
 title: "Amplitude of low frequency fluctuation (ALFF) in the cervical spinal cord with stenosis: a resting state fMRI study"
 collection: publications
+year: 2016
 permalink: /publication/2016-01-01-Amplitude-of-low-frequency-fluctuation-ALFF-in-the-cervical-spinal-cord-with-stenosis-a-resting-state-fMRI-study
 date: 2016-01-01
 venue: 'PLoS One'

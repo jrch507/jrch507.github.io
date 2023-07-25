@@ -1,6 +1,7 @@
 ---
 title: "Pay more attention to discontinuity for medical image segmentation"
 collection: publications
+year: 2020
 permalink: /publication/2020-01-01-Pay-more-attention-to-discontinuity-for-medical-image-segmentation
 date: 2020-01-01
 venue: 'In the proceedings of Medical Image Computing and Computer Assisted Intervention--MICCAI 2020: 23rd International Conference, Lima, Peru, October 4--8, 2020, Proceedings, Part IV 23'

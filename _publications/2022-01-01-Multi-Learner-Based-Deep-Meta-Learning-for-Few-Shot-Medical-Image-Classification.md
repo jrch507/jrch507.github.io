@@ -1,6 +1,7 @@
 ---
 title: "Multi-Learner Based Deep Meta-Learning for Few-Shot Medical Image Classification"
 collection: publications
+year: 2022
 permalink: /publication/2022-01-01-Multi-Learner-Based-Deep-Meta-Learning-for-Few-Shot-Medical-Image-Classification
 date: 2022-01-01
 venue: 'IEEE Journal of Biomedical and Health Informatics'
