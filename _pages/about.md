@@ -8,20 +8,20 @@ redirect_from:
   - /about
 ---
 
-I received my bachelor degree in University of Science and Technology of China (USTC), master degree in University of Chinese Academy of Sciences (UCAS) and PhD degree in the University of Hong Kong (HKU). After that, I worked as a senior engineer at Huawei Technology Co., Ltd. Then, I joined the iMED team as a postdoctoral fellow at Southern University of Science and Technology （SUSTech). I am currently a research assistant professor in Department of Computer Science and Engineering at Southern University of Science and Techology (SUSTech).
+I received my bachelor's degree from the University of Science and Technology of China, my master's degree from the University of Chinese Academy of Sciences, and my Ph.D. degree from the University of Hong Kong. After that, I worked as a senior engineer at Huawei Technology Co., Ltd. Then, I joined the iMED team as a postdoctoral fellow at the Southern University of Science and Technology. Currently, I am a research assistant professor in the Department of Computer Science and Engineering at the Southern University of Science and Technology.
 
-Reseach Interest
+Research Interest
 ======
-My main research interests are medical image analysis, neuroimage and aging-related diseases. Currently, I am working on
-* Medical image analysis, such as image segmentation, registration and image-based diagnostic models
+My main research interests are medical image analysis, neuroimage, and aging-related diseases. Currently, I am working on
+* Medical image analysis, such as image segmentation, registration, and image-based diagnostic models
 * Neuroimage, such as analyses of structural and functional MRI and retinal images
-* Aging-related diseases, such as Alzheimer's disease, Parkinson's disease and pain 
+* Aging-related diseases, such as Alzheimer's disease, Parkinson's disease, and pain 
 
-<font color="Red">Openings: We are opening to MSc and PhD students, research assistant working on those topics who are good at coding and/or math.</font>
+<font color="Red">Openings: We are opening to MSc and PhD students, and research assistants working on those topics who are good at coding and/or math.</font>
 
 Education
 ======
-* PhD in Li Ka Shing Faculty of Medicine, The University of Hong Kong, 2014/09-2019/03
+* Ph.D. in Li Ka Shing Faculty of Medicine, The University of Hong Kong, 2014/09-2019/03
 * Master in Institute of Electronics, Chinese Academy of Sciences, 2011/09-2014/06
 * Bachelor in Department of Electronic Engineering and Information Science, University of Science and Technology of China, 2007/09-2011/07
 
@@ -72,4 +72,4 @@ Honors & Awards
 Academic Services
 ======
 * Session chair of ICCRD and ICIMH
-* Technical Committee Member of ICCRD, ICIMH, CCISP and so on
+* Technical Committee Member of ICCRD, ICIMH, CCISP, etc.
